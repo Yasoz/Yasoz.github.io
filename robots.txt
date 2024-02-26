@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Yasoz.github.io/sitemap.xml
+Sitemap: https://yasoz.github.io/sitemap.xml
